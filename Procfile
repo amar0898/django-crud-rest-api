@@ -1,0 +1,1 @@
+web: gunicorn CrudRestApi.wsgi --log-file -
